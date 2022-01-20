@@ -57,7 +57,7 @@ nav ul li {
   background-color: rgb(0, 0, 0);
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .main-info{
@@ -107,6 +107,7 @@ nav ul li {
 .about{
   color: var(--prime-gold);
   text-transform: uppercase;
+  text-decoration: underline;
 }
 
 .aboutme-par{
@@ -120,4 +121,71 @@ nav ul li {
 
 .about-block{
   margin-top: 2.5rem;
+}
+
+/**********EDUCATION**********/
+
+.edu-title{
+  color: var(--prime-gold);
+  text-decoration: underline;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  letter-spacing: 0.0375rem;
+}
+
+.education{
+  background-color: var(--prime-green);
+  font-family: "Oswald";
+}
+
+.edu-details{
+  background-color: #091d1b;
+  max-width: 50rem;
+  color: var(--prime-gold);
+  padding: 0.625rem;
+  margin: 0 auto;
+  border-radius: 1.563rem;
+}
+
+
+
+.edu-program{
+  display: flex;
+}
+
+.edu-years{
+  margin-left: auto;
+  order: 2;
+}
+
+/**********SKILSS**********/
+
+.skills{
+  background-color: black;
+  font-family: "Oswald";
+}
+
+.skills-title{
+  color: var(--prime-gold);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  letter-spacing: 0.0375rem;
+}
+
+.skills-list{
+  display: block;
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+.skills-list li{
+  color: var(--prime-gold);
+  display: inline-block;
+  font-size: 1.5rem;
+  background-color: var(--prime-green);
+  margin: 0.625rem;
+  padding: 0.625rem 1.25rem;
+  border-radius: 1.563rem;
 }
