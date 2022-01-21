@@ -159,7 +159,7 @@ nav ul li {
   order: 2;
 }
 
-/**********SKILSS**********/
+/**********SKILS**********/
 
 .skills{
   background-color: black;
@@ -184,8 +184,26 @@ nav ul li {
   color: var(--prime-gold);
   display: inline-block;
   font-size: 1.5rem;
-  background-color: var(--prime-green);
+  background-color: #091d1b;
   margin: 0.625rem;
   padding: 0.625rem 1.25rem;
   border-radius: 1.563rem;
 }
+
+/**********PROJECTS**********/
+
+.projects{
+  background-color: black;
+  font-family: "Oswald";
+  color: var(--prime-gold);
+  letter-spacing: 0.0375rem;
+  line-height: 1.7;
+}
+
+.projects-content{
+  background: #091d1b;
+  padding: 0.625rem;
+  border-radius: 1rem;
+  font-size: 1rem;
+}
+

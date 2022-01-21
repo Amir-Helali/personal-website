@@ -13,7 +13,7 @@ const AboutMe = () => {
                 </div>
                 <div className='col-lg-6 col-xm-12'>
                     <div className='about-block'>
-                        <h2 className='about'><b>About Me</b></h2>
+                        <h2 className='about mb-2'><b>About Me</b></h2>
                         <p className='aboutme-par mt-3'>
                             I am a 3rd year Software Development student at Seneca currently looking for exciting employment opportunities for my upcoming summer co-op term.
                             I have gained a vast amount of hands on and theoretical experiences during my studies and I am very much looking forward to apply what I've learned in the work environment.

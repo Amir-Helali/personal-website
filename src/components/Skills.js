@@ -4,7 +4,7 @@ const Skills = () => {
     return (
         <div className='skills'>
             <div className='container py-5'>
-                <h2 className='skills-title'><b><u>SKILLS</u></b></h2>
+                <h2 className='skills-title mb-4'><b><u>SKILLS</u></b></h2>
                 <ul className='skills-list'>
                     <li>C</li>
                     <li>C++</li>

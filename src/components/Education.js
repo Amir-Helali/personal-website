@@ -4,7 +4,7 @@ const Education = () => {
     return (
         <div className='education'>
             <div className='container py-5'>
-                <h2 className='edu-title'><b>EDUCATION</b></h2>
+                <h2 className='edu-title mb-4'><b>EDUCATION</b></h2>
                 <div className='edu-details'>
                     <div className='edu-program'>
                         <h4 className='edu-school'><b>Honours Bachelor of Technology - Software Development</b></h4>
