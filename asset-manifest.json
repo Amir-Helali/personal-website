@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.6c336171.chunk.css",
+    "main.js": "/personal-website/static/js/main.375b940d.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.375b940d.chunk.js.map",
+    "runtime~main.js": "/personal-website/static/js/runtime~main.be382d22.js",
+    "runtime~main.js.map": "/personal-website/static/js/runtime~main.be382d22.js.map",
+    "static/css/2.93581bbc.chunk.css": "/personal-website/static/css/2.93581bbc.chunk.css",
+    "static/js/2.5764cdb1.chunk.js": "/personal-website/static/js/2.5764cdb1.chunk.js",
+    "static/js/2.5764cdb1.chunk.js.map": "/personal-website/static/js/2.5764cdb1.chunk.js.map",
+    "static/js/3.06b3e647.chunk.js": "/personal-website/static/js/3.06b3e647.chunk.js",
+    "static/js/3.06b3e647.chunk.js.map": "/personal-website/static/js/3.06b3e647.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.22d1af3a4ab1ad7988f0603da8b76070.js": "/personal-website/precache-manifest.22d1af3a4ab1ad7988f0603da8b76070.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/2.93581bbc.chunk.css.map": "/personal-website/static/css/2.93581bbc.chunk.css.map",
+    "static/css/main.6c336171.chunk.css.map": "/personal-website/static/css/main.6c336171.chunk.css.map",
+    "static/media/aboutMe.jpg": "/personal-website/static/media/aboutMe.64d4bed6.jpg",
+    "static/media/font-awesome.min.css": "/personal-website/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
