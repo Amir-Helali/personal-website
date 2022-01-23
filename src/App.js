@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Navbar";
@@ -6,6 +7,7 @@ import AboutMe from './components/AboutMe';
 import Education from './components/Education';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
+import Contacts from './components/Contacts';
 function App() {
   return (
     <>
@@ -15,6 +17,7 @@ function App() {
       <Education></Education>
       <Skills></Skills>
       <Projects></Projects>
+      <Contacts></Contacts>
     </>
   );
 }

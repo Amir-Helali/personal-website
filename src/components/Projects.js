@@ -2,7 +2,7 @@ import React from 'react'
 
 const Projects = () => {
     return (
-        <div className='projects'>
+        <div id='projects' className='projects'>
             <div className='d-flex justify-content-center py-4'>
                 <h1><b><u>Projects</u></b></h1>
             </div>
@@ -25,7 +25,7 @@ const Projects = () => {
                         <li>Implemented in Android Studio utilizing TensorFlow Lite to use a pre-trained model with approximately 93% accuracy. Implemented by following OOP principles</li>
                     </ul>
                 </div>
-                <div className='projects-content mb-2'>
+                <div className='projects-content'>
                     <h3><b>Various School Projects (C, C++, Angular)</b></h3>
                     <br></br>
                     <ul>

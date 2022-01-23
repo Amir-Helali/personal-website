@@ -3,7 +3,7 @@ import Typed from "react-typed";
 
 const Header = () => {
     return (
-        <div className='header-wraper'>
+        <div id="home" className='header-wraper'>
             <div className='main-info'>
                 <Typed className="typed-text" 
                 strings={['<em>"Don\'t worry if it doesn\'t work right. If everything did, you\'d be out of a job."</em> <br>- Mosher\'s Law of Software Engineering',

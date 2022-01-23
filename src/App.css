@@ -115,7 +115,7 @@ nav ul li {
   justify-content: center;
   align-items: center;
   font-weight: bold;
-  color: var(--prime-gold);
+  color: rgb(199, 194, 194);
   line-height: 1.5;
 }
 
@@ -148,7 +148,9 @@ nav ul li {
   border-radius: 1.563rem;
 }
 
-
+.education h5{
+  color: rgb(199, 194, 194);
+}
 
 .edu-program{
   display: flex;
@@ -205,5 +207,32 @@ nav ul li {
   padding: 0.625rem;
   border-radius: 1rem;
   font-size: 1rem;
+}
+
+.projects li{
+  color: rgb(199, 194, 194);
+}
+
+/**********CONTACT ME**********/
+
+.contacts{
+  background-color: black;
+  padding: 3rem 0;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.contacts h1{
+  color: var(--prime-gold);
+  padding: 1.3rem 0;
+  text-transform: uppercase;
+  text-decoration: underline;
+  letter-spacing: 0.0375rem;
+  font-family: "Oswald";
+}
+
+.contacts li{
+  list-style: none;
 }
 
